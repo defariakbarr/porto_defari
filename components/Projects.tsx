@@ -58,7 +58,7 @@ const projects = [
         description:
             "An award-winning IoT and renewable energy solution implemented in Cibalung Village, Bogor, featuring smart soil monitoring and micro-hydro power systems.",
         tech: ["IoT", "C++", "Java", "Go", "Python", "SQL", "XAMPP"],
-        image: "/voyager3.jpg", 
+        image: "/voyager3.JPG", 
         github: "https://github.com/defariakbarr/voyager",
         demo: "",
         stars: 128,
