@@ -37,7 +37,7 @@ const socials = [
         color: "hover:border-white/30 hover:bg-white/[0.04]",
     },
     {
-        href: "https://linkedin.com/in/defari-akbar",
+        href: "https://www.linkedin.com/in/defari-akbar-25b916386?utm_source=share_via&utm_content=profile&utm_medium=member_android",
         icon: LinkedinIcon,
         label: "LinkedIn",
         handle: "Defari Akbar",
