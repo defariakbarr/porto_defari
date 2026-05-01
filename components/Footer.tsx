@@ -29,7 +29,7 @@ export default function Footer() {
                         <span className="gradient-text">D</span>efari
                     </div>
                     <p className="text-xs text-white/30">
-                        © {new Date().getFullYear()} Defari. Built with Next.js & Tailwind.
+                        © {new Date().getFullYear()} Defari Akbar Anggara
                     </p>
                 </div>
 
